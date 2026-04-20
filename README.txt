@@ -1,0 +1,1 @@
+Файл с локализацией перенести в CasualtiesUnknown_Data\Lang
